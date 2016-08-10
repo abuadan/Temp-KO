@@ -7,7 +7,7 @@ Named after the British physicist Brian Josephson [1], Josephson junctions are a
 
 The python code desrcibed in this repiository solves the temerpature dependednt equtions of that descbie the behavoiur of the criticla temeprature of long and short weak links for material with differeing ctirtical temerpre 
 
-The KO(I) Theory 
+KO (I) 
 --------------
 - The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
 
@@ -21,3 +21,9 @@ n is a positive integer
 Taking the maximum of the resulting plot of I_s(phi) phase phi and plotting this results in the overall temerpature dependent plot for the critical current of the weak link.
 
 Plotting the resulting Is (φ) RN as a function of the phase for a typical short weak link results in Figure 1.15, where the critical current Ic is taken as the maximum value of the function.
+
+KO (II) 
+--------------
+
+The second case(KO-II) [50] applies to clean or long weak links and gives:
+
