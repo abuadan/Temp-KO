@@ -13,6 +13,11 @@ The KO(I) Theory
 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411536/eq1.pdf" width="600">
 
-Is(φ)Rn = 2πkBT   2∆ cos(φ/2) arctan ∆ sin(φ/2) (1.55)
-eω>0δ δ
-where δ =  ∆2 cos2(φ/2) + ( ω)2 1and the nth Matsubara frequency  ω satisfies  ω = πkBT (2n + 1) where n is a positive integer. Plotting the resulting Is (φ) RN as a function of the phase for a typical short weak link results in Figure 1.15, where the critical current Ic is taken as the maximum value of the function.
+where delta and the the nth Matsubara frequency are respectively given as:
+
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411548/eq2.pdf" width=600>
+n is a positive integer
+
+Taking the maximum of the resulting plot of I_s(phi) phase phi and plotting this results in the overall temerpature dependent plot for the critical current of the weak link.
+
+Plotting the resulting Is (φ) RN as a function of the phase for a typical short weak link results in Figure 1.15, where the critical current Ic is taken as the maximum value of the function.
