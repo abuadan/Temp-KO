@@ -11,7 +11,7 @@ the KO(I)
 --------------
 - The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
 
-![eq1.pdf](https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/410890/eq1.pdf)
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411536/eq1.pdf" width="600">
 
 Is(φ)Rn = 2πkBT   2∆ cos(φ/2) arctan ∆ sin(φ/2) (1.55)
 eω>0δ δ
