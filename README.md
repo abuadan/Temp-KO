@@ -9,8 +9,10 @@ The python code desrcibed in this repiository solves the temerpature dependednt 
 
 the KO(I)
 --------------
-- The first case(denoted as (KO-I)) [2] applies to dirty or short weak
-links and gives
+- The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
+
+![eq1.pdf](https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/410890/eq1.pdf)
+
 Is(φ)Rn = 2πkBT   2∆ cos(φ/2) arctan ∆ sin(φ/2) (1.55)
 eω>0δ δ
 where δ =  ∆2 cos2(φ/2) + ( ω)2 1and the nth Matsubara frequency  ω satisfies  ω = πkBT (2n + 1) where n is a positive integer. Plotting the resulting Is (φ) RN as a function of the phase for a typical short weak link results in Figure 1.15, where the critical current Ic is taken as the maximum value of the function.
