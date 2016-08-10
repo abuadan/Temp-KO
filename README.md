@@ -7,7 +7,7 @@ Named after the British physicist Brian Josephson [1], Josephson junctions are a
 
 The python code desrcibed in this repiository solves the temerpature dependednt equtions of that descbie the behavoiur of the criticla temeprature of long and short weak links for material with differeing ctirtical temerpre 
 
-the KO(I)
+The KO(I) Theory 
 --------------
 - The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
 
