@@ -26,4 +26,5 @@ KO (II)
 --------------
 
 The second case(KO-II) [50] applies to clean or long weak links and gives:
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411802/eq3.pdf" width="600">
 
