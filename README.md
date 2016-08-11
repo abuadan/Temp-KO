@@ -13,7 +13,7 @@ KO (I)
 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411536/eq1.pdf" width="600">
 
-where &#948; and the the n<sup>th</sup> Matsubara &#295;&#969; frequency are respectively given as:
+where &#948; and the the n<sup>th</sup> Matsubara frequency &#295;&#969; are respectively given as:
 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411548/eq2.pdf" width=600>
 
