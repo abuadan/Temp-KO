@@ -16,7 +16,6 @@ KO (I)
 where &#948; and the the n<sup>th</sup> Matsubara &#295;&#969; frequency are respectively given as:
 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411548/eq2.pdf" width=600>
-n is a positive integer
 
 Taking the maximum of the resulting plot of I<sub>s</sub>(&phi;)R<sub>N<\sub> the phase &phi; and plotting this results in the overall temerpature dependent plot for the critical current of the weak link. Plotting the resulting I<sub>s</sub>(&phi;) RN as a function of the phase for a typical short weak link results in Figure 1.15, where the critical current I<sub>c</sub> is taken as the maximum value of the function.
 
