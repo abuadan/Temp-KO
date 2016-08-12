@@ -24,18 +24,18 @@ where &#948;, the n<sup>th</sup> Matsubara frequency &#295;&#969; and &#916; are
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411548/eq2.pdf" width=400>
 
 where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c</sub>. Plotting the resulting I<sub>c</sub>(&phi;)R<sub>N</sub> as a function of the phase for a typical short weak link results in Figure below, where the critical current I<sub>c</sub> is taken as the maximum value of the function. 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/414991/current_phase-eps-converted-to.pdf" width=400 title = "I<sub>s</sub>(&phi;) relationship for a typical short Nb weak link produced from the KO(I) equations, I<sub>s</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T → 0. I<sub>c</sub> is taken as the maximum value of the function.">
+
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/414991/current_phase-eps-converted-to.pdf" width="400" title = "I<sub>s</sub>(&phi;) relationship for a typical short Nb weak link produced from the KO(I) equations, I<sub>s</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T&rarr;0. I<sub>c</sub> is taken as the maximum value of the function.">
 
 - The second case(KO-II) [50] applies to clean or long weak links and gives:
 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411802/eq3.pdf" width="400">
 
-Plotting the I<sub>c</sub>(&phi;)RN in this region gives the behaviour shown below;
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/415091/current_phase1-eps-converted-to.pdf" width=400 title="I<sub>s</sub>(&phi:) relationship for a typical long/clean weak link produced from the KO(II) equations, as with the KO(I) theory, Is (φ) tends from a sinusoidal to a non-sinusoidal relation as T → 0">
+Plotting the I<sub>c</sub>(&phi;)R<sub>N</sub> in this region gives the behaviour shown below;
 
 Considering the maximum of Equations of both the KO (I) and KO (I) equations, a graphical representation of the the temperature dependence of I<sub>c</sub> can be produced for each case. The Python code in this repository illustrates this final step and produces a graph of I<sub>c</sub> as a fucntion of temperature.
 
 ;sdf;lksdjfkdslf;'
 
 fsldjf;lkasjfkl;sd
---------------------------------
+==============
