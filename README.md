@@ -13,7 +13,7 @@ To understand the unique and important features of Josephson junctions, it's fir
 
 Hence determining the critical current of different weak links is an important step in modelling Joesphson junctions. In 1975 and 1977, Kulik and Omelyanchuk developed a set of equations that model the effect of temperature on I<sub>c</sub> of different weak links.
 
-KO (I) 
+KO (I) and KO (II)
 --------------
 - The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
 
@@ -26,9 +26,7 @@ where &#948;, the n<sup>th</sup> Matsubara frequency &#295;&#969; and &#916; are
 where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c</sub>. Plotting the resulting I<sub>c</sub>(&phi;)R<sub>N</sub> as a function of the phase for a typical short weak link results in Figure below, where the critical current I<sub>c</sub> is taken as the maximum value of the function. 
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/414991/current_phase-eps-converted-to.pdf" width=400 title = "I<sub>s</sub>(&phi;) relationship for a typical short Nb weak link produced from the KO(I) equations, I<sub>s</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T → 0. I<sub>c</sub> is taken as the maximum value of the function.">
 
-KO (II) 
---------------
-The second case(KO-II) [50] applies to clean or long weak links and gives:
+- The second case(KO-II) [50] applies to clean or long weak links and gives:
 <img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411802/eq3.pdf" width="400">
 
 dslfsl;kdfjklsdjfs
