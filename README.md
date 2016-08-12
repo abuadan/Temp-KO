@@ -33,9 +33,6 @@ where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c
 
 Plotting the I<sub>c</sub>(&phi;)R<sub>N</sub> in this region gives the behaviour shown below;
 
-Considering the maximum of Equations of both the KO (I) and KO (I) equations, a graphical representation of the the temperature dependence of I<sub>c</sub> can be produced for each case. The Python code in this repository illustrates this final step and produces a graph of I<sub>c</sub> as a fucntion of temperature.
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/415091/current_phase1-eps-converted-to.pdf" width = "300" title="I<sub>c</sub>(&phi;) relationship for a typical long/clean weak link produced from the KO(II) equations, as with the KO(I) theory, I<sub>c</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T&rarr;0.">
 
-;sdf;lksdjfkdslf;'
-
-fsldjf;lkasjfkl;sd
-==============
+Considering the maximum of Equations of both the KO (I) and KO (II) equations, a graphical representation of the the temperature dependence of I<sub>c</sub> can be produced for each case. The Python code in this repository illustrates this final step and produces a graph of I<sub>c</sub> as a fucntion of temperature.
