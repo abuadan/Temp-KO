@@ -15,24 +15,36 @@ Hence determining the critical current of different weak links is an important s
 
 KO (I) and KO (II)
 --------------
-- The first case (denoted as (KO-I)) [2] applies to dirty or short weak links and is given as:
+- The first case (denoted as (KO-I)) [6] applies to dirty or short weak links and is given as:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411536/eq1.pdf" width="400">
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417966/eq1.pdf" width="400">
 
 where &#948;, the n<sup>th</sup> Matsubara frequency &#295;&#969; and &#916; are respectively given as:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411548/eq2.pdf" width=400>
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417964/eq2.pdf" width=400>
 
 where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c</sub>. Plotting the resulting I<sub>c</sub>(&phi;)R<sub>N</sub> as a function of the phase for a typical short weak link results in Figure below, where the critical current I<sub>c</sub> is taken as the maximum value of the function. 
 
 <p><img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/414991/current_phase-eps-converted-to.pdf" width="400" title="I<sub>s</sub>(&phi;) relationship for a typical short Nb weak link produced from the KO(I) equations, I<sub>s</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T&rarr;0. I<sub>c</sub> is taken as the maximum value of the function"></p>
 
-- The second case(KO-II) [50] applies to clean or long weak links and gives:
+- The second case(KO-II) [7] applies to clean or long weak links and gives:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/411802/eq3.pdf" width="300">
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417962/eq3.pdf" width="300">
 
 Plotting the I<sub>c</sub>(&phi;)R<sub>N</sub> in this region gives the behaviour shown below;
 
 <p><img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/415091/current_phase1-eps-converted-to.pdf" width = "400" title="I<sub>c</sub>(&phi;) relationship for a typical long/clean weak link produced from the KO(II) equations, as with the KO(I) theory, I<sub>c</sub>(&phi;) tends from a sinusoidal to a non-sinusoidal relation as T&rarr;0."></p>
 
-Considering the maximum of Equations of both the KO (I) and KO (II) equations, a graphical representation of the the temperature dependence of I<sub>c</sub> can be produced for each case. The Python code in this repository illustrates this final step and produces a graph of I<sub>c</sub> as a fucntion of temperature.
+Considering the maximum of both the KO (I) and KO (II) equations, a graphical representation of the the temperature dependence of I<sub>c</sub> can be produced for each case. The Python code in this repository illustrates this final step and produces a graph of I<sub>c</sub> as a fucntion of temperature.
+
+References
+============================
+1. J. B. D., Supercurrents through barriers, Adv. Phys. 14, 419 (1965).
+2. J. Kohlmann and R. Behr, Development of Josephson voltage standards, Superconductivity—Theory and Applications p. 239 (2011).
+3. B. N. Taylor, W. H. Parker, D. N. Langenberg and A. Denenstein, On the use of the ac Josephson effect to maintain standards of electromotive force, Metrologia 3, 89 (1967).
+4. G. P. Antonio Barone, Physics and Applications of the Josephson Effect, Physics and Applications of the Josephson Effect (1982).
+5. S. Anders, European roadmap on superconductive electronics status and perspectives, Physica 470, 2079 (2010).
+6. K. K. Likharev, Superconducting weak links, Rev. Mod. Phys. 51, 101–159 (1979).
+7. K. K. Likharev, Dynamics of Josephson Junctions and Circuits, Dynamics of Joseph- son Junctions and Circuits p. 614 (1986).
+
+
