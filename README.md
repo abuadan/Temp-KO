@@ -17,11 +17,11 @@ KO (I) and KO (II)
 --------------
 - The first case (denoted as (KO-I)) [6] applies to dirty or short weak links and is given as:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417966/eq1.pdf" width="400">
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417966/eq1.pdf" width="600">
 
 where &#948;, the n<sup>th</sup> Matsubara frequency &#295;&#969; and &#916; are respectively given as:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417964/eq2.pdf" width=400>
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417964/eq2.pdf" width=700>
 
 where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c</sub>. Plotting the resulting I<sub>c</sub>(&phi;)R<sub>N</sub> as a function of the phase for a typical short weak link results in Figure below, where the critical current I<sub>c</sub> is taken as the maximum value of the function. 
 
@@ -29,7 +29,7 @@ where n is a positive integer and &#916;<sub>o</sub> = 3.528k<sub>B</sub>T<sub>c
 
 - The second case(KO-II) [7] applies to clean or long weak links and gives:
 
-<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417962/eq3.pdf" width="300">
+<img src="https://github.com/abuadan/Temperature-Dependance-of-Josephson-Junctions-based-on-KOI-II-/files/417962/eq3.pdf" width="600">
 
 Plotting the I<sub>c</sub>(&phi;)R<sub>N</sub> in this region gives the behaviour shown below;
 
