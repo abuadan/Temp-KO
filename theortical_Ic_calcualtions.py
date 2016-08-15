@@ -5,7 +5,7 @@ from collections import OrderedDict
 
 '''
 The code in this simualtions was desgined foir readbility over speed 
-as such any increases in the value of M in the main() loop will result in 
+as such any increases in the value of M in the def main() loop will result in 
 a more accuraate simualtions but will increase the time required to complete 
 '''
 #Global Variables 
