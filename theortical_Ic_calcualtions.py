@@ -2,6 +2,12 @@ import math
 import matplotlib.pylab as plt
 import numpy as np
 from collections import OrderedDict
+
+'''
+The code in this simualtions was desgined foir readbility over speed 
+as such any increases in the value of M in the main() loop will result in 
+a more accuraate simualtions but will increase the time required to complete 
+'''
 #Global Variables 
 Tc = 9.3
 k= 1.3806488*10**-23
@@ -80,7 +86,14 @@ def main():
 	print T
 	for i in range(0,315):
 	   phi = 0.01*i
-	   result = KO_1(26800,T, phi)
+	   '''
+	   As a first step when running this code start with a small value 
+	   for M as larger values whilst accurate will take longer to run and complete 
+	   In this example 26000 is the upper limit where the simualtion will compelete in under 3 hours 
+	   with very accurate results.
+	   
+	   '''
+	   result = KO_1(26800,T, phi) 
 	   result_1 = KO_2(T, phi)
 	   g.append(result)
 	   f.append(result_1)
